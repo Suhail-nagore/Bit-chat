@@ -1,7 +1,7 @@
 
-# Talk-A-Tive
+# Bit Chat
 
-Talk-a-tive is a Full Stack Chatting App.
+Bit-Chat is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -15,13 +15,13 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 https://talk-a-tive.herokuapp.com/
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/suhail-nagore/Bit-chat.git
 ```
 
 Go to the project directory
