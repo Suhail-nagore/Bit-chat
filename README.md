@@ -13,8 +13,6 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-https://talk-a-tive.herokuapp.com/
-
 
 ## Run Locally
 
